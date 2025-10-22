@@ -1,7 +1,8 @@
 # AcceleratorDictionary
-a brief and non comprehensive dictionary of accelerator physics jargon, if you wish to help contribute to the effort contact me @ phia@stanford.edu 
+This is a brief and non comprehensive dictionary of accelerator physics jargon, if you wish to help contribute to the effort contact me at phia@stanford.edu
 
-https://uspas.fnal.gov/resources/AcceleratorTerms.pdf 
+Another great resource: https://uspas.fnal.gov/resources/AcceleratorTerms.pdf 
+The USPAS (US Particle Accelerator School) is a great starting point for a literature search on any concept. 
 
 Types of accelerators:
 Linear accelerator/LINAC - any accelerating structure that gives a beam of particles energy that is primarily linear, ie the acceleration is done in a straight line. The acceleration is often done with RF cavities. 
